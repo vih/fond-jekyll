@@ -3,30 +3,29 @@ title: Ny svømmesø klar til maj 2019 på Vejle Idrætshøjskole
 category: Nybyggeri
 tags:
   - aquascape
-image: /assets/images/uploads/01ee8ae6a4f18ce841e2567f365886d9-567x325.png
+  - status
+image: /assets/images/uploads/svoemmesoe-2-.png
 intro: >-
   De seneste år har vi sparet sammen i fonden, så bidragene i fonden kunne
   bruges til at realisere svømmesøen (som vi er gået i gang med). Vi samler
   stadig ind for at kunne forbedre projektet endnu mere.
 ---
-De seneste år har vi sparet sammen i fonden, så bidragene i fonden kunne bruges til at realisere svømmesøen (som vi er gået i gang med). Vi samler stadig ind for at kunne forbedre projektet endnu mere.
+Arbejdstitlen for det nye projekt er Outdoor AquaScape - som pendant til ordet ’landscape” - fordi de nye planer omkring svømmesøen laver indgribende forandringer for hele landskabet på skolernes parkområde.
 
-**Støtte til afsættet fra vipperne - vi mangler 57.881 kroner**
+> ”De, der har fulgt os på sidelinjen, vil vide, at der har været en længere proces for at få diverse ’knaster’ ryddet af vejen og alle hjørner af projektet til at passe sammen med planen. Så derfor er vi glade og stolte over, at arbejdet endelig bærer frugt, så ikke kun alle vores elever på de lange ophold og kursister på de korte kurser får god gavn af faciliteterne, men også offentligheden,” siger Vejle Idrætshøjskoles forstander Ole Damgård.
 
-Vi vil rigtig gerne støtte et bedre afsæt i poolen ved at forbedre 1- og 3-meter-vipperne. De nuværende lyseblå vippebrædder og mekanismen til at ændre hårdheden af vippen er fra etableringen af friluftsbadet i 1958. Fonden vil gerne være behjælpelig med, at også disse dele bliver opdateret i den nye svømmesø.
+## FLERE NYE FACILITETER
 
-![](/assets/images/uploads/01ee8ae6a4f18ce841e2567f365886d9-567x325.png)
+Omkring svømmesøen vil der være udendørs sauna, udspringstårn, klatrereb samt fleksible bassinfeatures til vandtræningsaktiviteter. Ud over svømmesøen etableres to støttefaciliteter – ”Højen” og ”Tanken”, der skal ”invitere borgerne ind” ved at tydeliggøre den offentlige adgang fra skoven til skolen og desuden levere en række services såsom ly/læ, samlingssteder, vandpost, luftpumpe, MTBvask, toiletfaciliteter, udendørs køkken, bruserskyl mv. for skovens brugere. De nye faciliteter vil være et løft for især skolens outdoor-, endurance- og fitnessfag.
 
-En ny mekanisme og en ny stand koster 73.000 kroner stykket - og dem skal vi bruge to af. Vi håber at kunne renovere de nuværende vippebrædder for 15.000 kroner stykket. Det løber i alt op i 176.000 kroner. Lige nu har vi 118.118 kroner i fondens kasse, hvilket betyder at vi mangler 57.882 kroner.
+## FRA KLORBASSIN TIL BÆREDYGTIG SVØMMESØ
 
-## Vil du hjælpe med at sikre et bedre afsæt?
+> ”Da det nuværende friluftsbassin blev anlagt i 1957, var det på baggrund af fremsynede ideer. Tankerne bag det det nye bassin har ligeledes søgt at fremtidssikre aktivitetsmuligheder, og ikke mindst en bæredygtig drift af bassinet,” fortæller Ole Damgaard.
 
-Hvis du kunne tænke dig at være medlem af fonden igen og støtte det bedre afsæt, så kan du gøre det fra fond.vih.dk. Her er fordelene:
+Betonfundamentet fra skolernes gamle friluftsbassin bevares og benyttes til at skabe en økologisk og energirigtig svømmesø med fersk vand, hvor vandet renses biologisk via filtre, i modsætning til konventionelle bassiner med klorrensn­ing af vandet.
 
-* Få gratis adgang til foredrag (for alle der har givet mindst 200 kroner)
-* Få fast årligt skattefradrag for dit bidrag
-* Bliv inviteret til relevante arrangementer på skolen
-* Vær en del af holdet på 100 som er nødvendige for fondens opretholdelse
-* Vær med til at udvikle skolen og skabe endnu flere stjernestunder
+## REALISERET VIA STØTTE
 
-Du kan enten støtte gennem at [oprette et medlemsskab](/medlemsskab/) eller ved en [enkeltstående donation](/bidrag/).
+Renoveringen er en af de større af slagsen for idrætssskolerne, som også i 2015 var gennem en større renovering med tilbygning af Center for Sundhed, Test og Læring samt ny kunstgræsbane og løbebane.
+
+Idrætsskolerne har selv sparet op til størstedelen af udgifterne ved svømmesøprojektet. Men projektet er realiseret med støtte fra bl.a. Lokale- og Anlægsfonden, Vejle Kommune og Isabellafonden som de største støttegivere. Desuden har en lang række fonde og puljer doneret mindre støttebeløb til bl.a. etablering af sauna, infoskilte samt klatrenet, svævebane mm., som har været medvirkende til, at projektet kan realiseres.
