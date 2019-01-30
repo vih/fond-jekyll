@@ -1,0 +1,34 @@
+main:
+  - title: Om fonden
+    url: "/om/"
+  - title: Bliv medlem
+    url: "/medlemsskab/"
+  - title: Giv et bidrag
+    url: "/bidrag/"
+  - title: Opdateringer
+    url: "/opdateringer/"
+  - title: Kontakt
+    url: "/kontakt"
+footer:
+  - title: Fonden
+    children:
+      - title: Bliv medlem
+        url: "/medlem/"
+      - title: Giv et bidrag
+        url: "/bidrag/"
+      - title: Fordele
+        url: /fordele/"
+social:
+  - title: Facebook
+    icon: facebook
+    url: "https://www.facebook.com/vihdk/"
+  - title: Instagram
+    icon: instagram
+    url: "https://www.instagram.com/vihdk/"
+footer:
+  - title: Vores links
+    children:
+      - title: Vejle Idrætshøjskole
+        url: "https://www.vih.dk"
+      - title: Vejle Idrætsefterskole
+        url: "https://www.vies.dk"

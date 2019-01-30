@@ -1,0 +1,15 @@
+---
+layout: default
+show_headline: true
+title: "Vejle Idrætshøjskoles Fond"
+intro: "Støt Vejle Idrætshøjskoles Fond og vær med til at sikre skolens fremtid og skabe stjernestuner på skolen."
+hero:
+  image: //images.weserv.nl/?url=https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/od.jpg&w=200
+  text: >-
+    <p>Tak fordi du kigger forbi. Vi er inde i en rigtig spændende udvikling på Vejle Idrætshøjskole, hvor vi er ved at forbedre både skolens produkt og faciliteterne. Vi håber, at du vil hjælpe med at støtte fonden.</p>
+    <p>- Ole Damgaard, forstander på højskolen</p>
+---
+
+{% assign projects = site.pages | where: "tags", "medlemsskab" %}
+
+{% include grid.html grid=projects %}
