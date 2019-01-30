@@ -1,5 +1,5 @@
 ---
-title: planer om ny svømmesø
+title: Planer om ny svømmesø
 category: Nybyggeri
 tags:
   - status
