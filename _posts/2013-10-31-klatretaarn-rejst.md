@@ -3,6 +3,7 @@ title: Klatretårn rejst
 category: Nybyggeri
 tags:
   - status
+image: /assets/images/uploads/klatretarn.jpg
 intro: >-
   Gennem længere tid har højskolen arbejdet på at få rejst et klatretårn i
   baghaven. Tårnet er blevet rejst i samarbejde med Vejle Kommune, og vi glæder
