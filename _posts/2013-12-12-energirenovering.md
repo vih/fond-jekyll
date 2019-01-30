@@ -1,10 +1,11 @@
 ---
-title: "100 bidragydere samlet"
-intro: "Vores mål var at samle 100 bidragydere til fonden inden en uge. Det lykkedes lige netop efter 6 dage, 23 timer og 22 minutter. Vi siger tak til alle dem, der har bidraget til fonden - og vi glæder os til at fortælle mere om fondens arbejde for Vejle Idrætshøjskole og Idrætsefterskole."
+title: "Energirenovering"
+intro: ""
+image: 
 tags:
   - status
 ---
 
-Vores mål var at samle 100 bidragydere til fonden inden en uge. Det lykkedes lige netop efter 6 dage, 23 timer og 22 minutter. Vi siger tak til alle dem, der har bidraget til fonden - og vi glæder os til at fortælle mere om fondens arbejde for Vejle Idrætshøjskole og Idrætsefterskole.
+Så er energirenoveringen af hal og træningssal afsluttet. Vi har nyt varmeanlæg med elektronisk styring og nyt energirigtigt lysopsætning. Vi glæder os til bedre varme i hallerne og ikke mindst en lavere el-regning.
 
-Vi indsendte ansøgning om at få lov til at oprette vores fond den 1. oktober 2013. Allerede i dag er vores fond blevet godkendt. Det betyder, at det nu er muligt at give både gaver og testamentariske gaver til højskolen og efterskolen. Vi håber, at mange vil benytte sig af muligheden.
+Projektet har været støttet af en energirenoveringspulje under undervisningsministeriet.
