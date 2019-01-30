@@ -1,8 +1,14 @@
 ---
-title: "100 bidragydere samlet"
-intro: "Vores mål var at samle 100 bidragydere til fonden inden en uge. Det lykkedes lige netop efter 6 dage, 23 timer og 22 minutter. Vi siger tak til alle dem, der har bidraget til fonden - og vi glæder os til at fortælle mere om fondens arbejde for Vejle Idrætshøjskole og Idrætsefterskole."
+title: 100 bidragydere samlet
+category: Status
 tags:
   - status
+image: /assets/images/uploads/1369689920zszh.jpg
+intro: >-
+  Vores mål var at samle 100 bidragydere til fonden inden en uge. Det lykkedes
+  lige netop efter 6 dage, 23 timer og 22 minutter. Vi siger tak til alle dem,
+  der har bidraget til fonden - og vi glæder os til at fortælle mere om fondens
+  arbejde for Vejle Idrætshøjskole og Idrætsefterskole.
 ---
 
 Vores mål var at samle 100 bidragydere til fonden inden en uge. Det lykkedes lige netop efter 6 dage, 23 timer og 22 minutter. Vi siger tak til alle dem, der har bidraget til fonden - og vi glæder os til at fortælle mere om fondens arbejde for Vejle Idrætshøjskole og Idrætsefterskole.
