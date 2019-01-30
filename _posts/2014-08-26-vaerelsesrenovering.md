@@ -1,8 +1,9 @@
 ---
-title: 100 bidragydere samlet
+title: Renovering af værelserne på efterskolen
 category: Renovering
 tags:
   - status
+image: /assets/images/uploads/1391512597hkau.jpg
 intro: >-
   Vi er i øjeblikket ved at renovere alle værelserne i den gamle højskoledel og
   nuværende efterskoledel. Værelserne får den helt store tur med nyt gulv, nyt
