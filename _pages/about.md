@@ -7,17 +7,17 @@ intro: "Vejle Idrætshøjskole og -idrætsefterskole har en fond med henblik på
 grid:
   - title: Carsten Lang Petersen
     url: "#"
-    image: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/carsten-lang_0.jpg
+    image: /assets/images/carsten-lang_0.jpg
     description: "formand for bestyrelsen"
     published: true
   - title: Ole Damgaard
     url: "#"
-    image: https://fond.vih.dk/sites/fond-vih.local/files/styles/panopoly_image_full/public/general/od.jpg
+    image: /assets/images/od.jpg
     description: "forstander for højskolen"
     published: true
   - title: Frank Rasmussen
     url: "#"
-    image: http://fond.vies.dk/sites/fond-vies.local/files/styles/panopoly_image_full/public/general/frank1.jpg
+    image: /assets/images/frank1.jpg
     description: "forstander efterskolen"
     published: true
   - title: Peter Sebastian Petersen
