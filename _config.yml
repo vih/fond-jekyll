@@ -39,6 +39,8 @@ footer:
       url: "http://www.vih.dk"
     - title: "Vejle Idrætsefterskole"
       url: "http://www.vies.dk"
+    - title: "Privatlivspolitik"
+      url: "/privatlivspolitik/"
   about_headline: "Om Fonden"
   about: "Fondens formål er at støtte udviklingen af Vejle Idrætshøjskoles og Idrætsefterskoles faciliteter."
 
