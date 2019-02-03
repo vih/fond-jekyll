@@ -2,7 +2,7 @@ main:
   - title: Om fonden
     url: "/om/"
   - title: Bliv medlem
-    url: "/medlemsskab/"
+    url: "/medlem/"
   - title: Giv et bidrag
     url: "/bidrag/"
   - title: Opdateringer

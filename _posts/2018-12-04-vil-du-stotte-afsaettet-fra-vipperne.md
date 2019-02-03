@@ -29,4 +29,4 @@ Hvis du kunne tænke dig at være medlem af fonden igen og støtte det bedre afs
 * Vær en del af holdet på 100 som er nødvendige for fondens opretholdelse
 * Vær med til at udvikle skolen og skabe endnu flere stjernestunder
 
-Du kan enten støtte gennem at [oprette et medlemsskab](/medlemsskab/) eller ved en [enkeltstående donation](/bidrag/).
+Du kan enten støtte gennem at [oprette et medlemsskab](/medlem/) eller ved en [enkeltstående donation](/bidrag/).

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /medlemsskab/
+permalink: /medlem/
 published: true
 show_headline: true
 title: "Få medlemsskab"
@@ -18,4 +18,4 @@ tags:
 
 Medlemsskabet gælder for et kalenderår - og trækkes årligt. Du kan også [give et enkeltbidrag](/bidrag/), hvis du hellere vil det.
 
-[Få medlemsskab](/medlemsskab/buy){: .btn .btn-warning .btn-large} [Giv et enkeltbidrag](/bidrag/buy){: .btn}
+[Få medlemsskab](/medlem/buy){: .btn .btn-warning .btn-large} [Giv et enkeltbidrag](/bidrag/buy){: .btn}
