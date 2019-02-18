@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /medlem/
+redirect_from: /content/medlemsskab-af-fonden
 published: true
 show_headline: true
 title: "Få medlemsskab"
