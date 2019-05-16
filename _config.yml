@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "lsolesen/Stanley-Jekyll@2.0.2"
+remote_theme:            "lsolesen/Stanley-Jekyll@2.0.3"
 skin:   "dark" # "default", "dark"
 
 # Site Settings
