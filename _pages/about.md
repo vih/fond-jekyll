@@ -3,7 +3,8 @@ layout: single
 permalink: /om/
 show_headline: true
 title: "Om Vejle Idrætsskoles Fond"
-intro: "Vejle Idrætshøjskole og -idrætsefterskole har en fond med henblik på at understøtte udviklingen af skolens faciliteter til gavn for elever, kursister og personale."
+intro: 
+  - excerpt: "Vejle Idrætshøjskole og -idrætsefterskole har en fond med henblik på at understøtte udviklingen af skolens faciliteter til gavn for elever, kursister og personale."
 feature_row:
   - title: Carsten Lang Petersen
     image_path: /assets/images/carsten-lang_0.jpg
@@ -17,6 +18,8 @@ feature_row:
   - title: Peter Sebastian Petersen
     image_path: https://www.vih.dk/sites/vih/files/laerere-55.jpg
     excerpt: "forretningsudvikler og medlem af FFD's bestyrelse"
+author_profile: true
+toc: true
 ---
 
 {% include feature_row id="intro" type="center" %}

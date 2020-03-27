@@ -83,7 +83,7 @@ footer:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "http://github.com/vih/fond-jekyll"
 
 # Address
 address:
@@ -110,22 +110,19 @@ footer:
 
 # Site Author
 author:
-  name: "iFire.dk"
-  bio: "Jeg hedder Lars og er på jagt efter økonomisk uafhængighed. Følg mine erfaringer med crowd lending, passiv indkomst og investeringer, og læs om hvad jeg lærer undervejs."
-  avatar: "/assets/images/authors/growth-logo.png"
+  name: "Vejle Idrætsskolers Fond"
+  bio: "Vejle Idrætsskolers Fonds formål er at understøtte Vejle Idrætshøjskoles og Vejle Idrætsefterskoles udvikling - og skabe flere drømmestunder på skolerne og gøre det muligt, at skolerne gør en forskel i verden."
+  avatar: "/android-chrome-192x192.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@ifire.dk"
-    - label: "BuyMeACoffee"
+      url: "mailto:webmaster@vih.dk"
+    - label: "Vejle Idrætshøjskole"
       icon: "fas fa-fw fa-mug-hot"
-      url: "https://www.buymeacoffee.com/hmBeaqv9P"
-    - label: "Flattr"
+      url: "https://www.vih.dk"
+    - label: "Vejle Idrætsefterskole"
       icon: "fas fa-fw fa-sync-alt"
-      url: "/go/flattr/"
-    - label: "Disclaimer"
-      icon: "fas fa-badge-check"
-      url: "/disclaimer/"
+      url: "http://www.vies.dk"
 
 
 # Reading Files

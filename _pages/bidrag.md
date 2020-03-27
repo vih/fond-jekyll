@@ -13,6 +13,7 @@ hero:
 description: *description
 tags:
   - medlemsskab
+author_profile: true
 ---
 
 - Få gratis adgang til foredrag (for alle der har givet mindst 200 kroner)
@@ -25,4 +26,4 @@ Ved et enkeltbidrag bliver du medlem af fonden i indeværende år.
 
 Du kan også [få årligt medlemsskab af fonden](/medlem/), hvis du vil automatisere det hele.
 
-[Giv et bidrag](/bidrag/buy){: .btn .btn-warning .btn-large} [Få medlemsskab](/medlem/buy){: .btn}
+[Giv et bidrag](/bidrag/buy){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy){: .btn }
