@@ -1,15 +1,21 @@
 ---
-layout: default
-show_headline: true
+layout: splash
 title: "Vejle Idrætshøjskoles Fond"
-intro: "Støt Vejle Idrætshøjskoles Fond og vær med til at sikre skolens fremtid og skabe stjernestuner på skolen."
-hero:
-  image: /assets/images/od.jpg
-  text: >-
-    <p>Tak fordi du kigger forbi. Vi er inde i en rigtig spændende udvikling på Vejle Idrætshøjskole, hvor vi er ved at forbedre både skolens produkt og faciliteterne. Vi håber, at du vil hjælpe med at støtte fonden.</p>
-    <p>- Ole Damgaard, forstander på højskolen</p>
+intro: 
+  - excerpt: "Støt Vejle Idrætshøjskoles Fond og vær med til at sikre skolens fremtid og skabe stjernestuner på skolen."
+feature_row_od:
+  - image_path: /assets/images/od.jpg
+    excerpt: >-
+      <p>Tak fordi du kigger forbi. Vi er inde i en rigtig spændende udvikling på Vejle Idrætshøjskole, hvor vi er ved at forbedre både skolens produkt og faciliteterne. Vi håber, at du vil hjælpe med at støtte fonden.</p>
+      <p>--- <cite>Ole Damgaard, forstander på højskolen</cite></p>
 ---
 
-{% assign projects = site.pages | where: "tags", "medlemsskab" %}
+{% include feature_row id="feature_row_od" type="left" %}
 
-{% include grid.html grid=projects %}
+{% include feature_row id="intro" type="center" %}
+
+{% assign memberships = site.pages | where: "tags", "medlemsskab" %}
+
+{% for post in memberships %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /bidrag/
 published: true
 show_headline: true

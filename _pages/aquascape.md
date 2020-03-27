@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /aquascape/
 show_headline: true
 title: "Aquascape - Svømmesø og aktivitetsområde"

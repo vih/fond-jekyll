@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /privatlivspolitik/
 title: Privatlivs- og cookiepolitik for Vejle Idrætsskolers Fond
 show_headline: true

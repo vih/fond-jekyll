@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /helheldsplan/
 published: true
 show_headline: true

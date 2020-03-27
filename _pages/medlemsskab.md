@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /medlem/
 redirect_from: /content/medlemsskab-af-fonden
 published: true

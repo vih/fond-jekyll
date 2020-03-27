@@ -1,31 +1,25 @@
 ---
-layout: page
+layout: single
 permalink: /om/
 show_headline: true
 title: "Om Vejle Idrætsskoles Fond"
 intro: "Vejle Idrætshøjskole og -idrætsefterskole har en fond med henblik på at understøtte udviklingen af skolens faciliteter til gavn for elever, kursister og personale."
-grid:
+feature_row:
   - title: Carsten Lang Petersen
-    url: "#"
-    image: /assets/images/carsten-lang_0.jpg
-    description: "formand for bestyrelsen"
-    published: true
+    image_path: /assets/images/carsten-lang_0.jpg
+    excerpt: "formand for bestyrelsen"
   - title: Ole Damgaard
-    url: "#"
-    image: /assets/images/od.jpg
-    description: "forstander for højskolen"
-    published: true
+    image_path: /assets/images/od.jpg
+    excerpt: "forstander for højskolen"
   - title: Frank Rasmussen
-    url: "#"
-    image: /assets/images/frank1.jpg
-    description: "forstander efterskolen"
-    published: true
+    image_path: /assets/images/frank1.jpg
+    excerpt: "forstander efterskolen"
   - title: Peter Sebastian Petersen
-    url: "#"
-    image: https://www.vih.dk/sites/vih/files/laerere-55.jpg
-    description: "forretningsudvikler og medlem af FFD's bestyrelse"
-    published: false
+    image_path: https://www.vih.dk/sites/vih/files/laerere-55.jpg
+    excerpt: "forretningsudvikler og medlem af FFD's bestyrelse"
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 Vejle Idrætshøjskole og -idrætsefterskole har en fond med henblik på at understøtte udviklingen af skolens faciliteter til gavn for elever, kursister og personale.
 
@@ -58,4 +52,4 @@ Tak for din interesse i at støtte skolen
 
 Du kan læse mere om skolerne på hhv. [www.vih.dk](http://www.vih.dk) og [www.vies.dk](http://www.vies.dk).
 
-{% include grid.html grid=page.grid %}
+{% include feature_row %}
