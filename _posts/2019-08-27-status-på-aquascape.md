@@ -4,7 +4,7 @@ permalink: /aquascape-august-2019/
 category: Opsamling
 tags:
   - aquascape
-image: https://drive.google.com/open?uc=1FFunnHI7KkndXzkO7PYQzQh2uUX8ByyH
+image: https://drive.google.com/uc?uc=1FFunnHI7KkndXzkO7PYQzQh2uUX8ByyH
 intro: AquaScape er blevet brugt flittigt af kursister og elever i løbet af sommeren. Vi venter stadig lidt på at kunne åbne for offentligheden.
 ---
 
