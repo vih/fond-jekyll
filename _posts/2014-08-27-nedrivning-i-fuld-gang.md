@@ -4,11 +4,9 @@ category: Nybyggeri
 tags:
   - status
 image: /assets/images/uploads/dansesal.jpg
-intro: >-
-  Vi er nu gået i gang med at rive klasse 5, 6 og 7, gangen og det gamle
-  redskabsrum ned, så vi kan gøre klar til vores nye bygning, som er det første
-  projekt vi satte os for, da vi oprettede fonden.
 ---
+
+{% include figure image_path=page.image caption=page.title %}
 
 Vi er nu gået i gang med at rive klasse 5, 6 og 7, gangen og det gamle redskabsrum ned, så vi kan gøre klar til vores nye bygning, som er det første projekt vi satte os for, da vi oprettede fonden.
 

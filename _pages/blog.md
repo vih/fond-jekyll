@@ -1,4 +1,5 @@
 ---
-layout: blog
+layout: posts
 permalink: /opdateringer/
+author_profile: true
 ---

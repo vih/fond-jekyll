@@ -10,6 +10,11 @@ intro: >-
   bruges til at realisere svømmesøen (som vi er gået i gang med). Vi samler
   stadig ind for at kunne forbedre projektet endnu mere.
 ---
+
+**{{ page.intro }}**
+
+{% include figure image_path=page.image caption=page.title %}
+
 Arbejdstitlen for det nye projekt er Outdoor AquaScape - som pendant til ordet ’landscape” - fordi de nye planer omkring svømmesøen laver indgribende forandringer for hele landskabet på skolernes parkområde.
 
 > ”De, der har fulgt os på sidelinjen, vil vide, at der har været en længere proces for at få diverse ’knaster’ ryddet af vejen og alle hjørner af projektet til at passe sammen med planen. Så derfor er vi glade og stolte over, at arbejdet endelig bærer frugt, så ikke kun alle vores elever på de lange ophold og kursister på de korte kurser får god gavn af faciliteterne, men også offentligheden,” siger Vejle Idrætshøjskoles forstander Ole Damgård.

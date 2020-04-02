@@ -6,6 +6,11 @@ tags:
 image: /assets/images/uploads/svoemmesoe-2-.png
 intro: Nyhedsbrev om fondens arbejde fra november 2017.
 ---
+
+**{{ page.intro }}**
+
+{% include figure image_path=page.image caption=page.title %}
+
 ## Arbejdet fortsætter med AquaScape
 
 Der arbejdes fortsat på højtryk for at komme i mål med det nye udendørsområde AquaScape på Vejle Idrætshøjskole og -Idrætsefterskole, som bl.a. indeholder en naturlig svømmesø. Vejle Idrætshøjskoles - og Idrætsefterskoles fond har besluttet sig for at støtte projektet med størstedelen af de mere end 100.000 kroner fonden foreløbigt har indsamlet fra medlemmerne.

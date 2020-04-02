@@ -1,15 +1,42 @@
 ---
-layout: default
-show_headline: true
+layout: splash
 title: "Vejle Idrætshøjskoles Fond"
-intro: "Støt Vejle Idrætshøjskoles Fond og vær med til at sikre skolens fremtid og skabe stjernestuner på skolen."
-hero:
-  image: /assets/images/od.jpg
-  text: >-
-    <p>Tak fordi du kigger forbi. Vi er inde i en rigtig spændende udvikling på Vejle Idrætshøjskole, hvor vi er ved at forbedre både skolens produkt og faciliteterne. Vi håber, at du vil hjælpe med at støtte fonden.</p>
-    <p>- Ole Damgaard, forstander på højskolen</p>
+excerpt: "Tak fordi du kigger forbi. Vi er inde i en rigtig spændende udvikling på Vejle Idrætshøjskole, hvor vi er ved at forbedre både skolens produkt og faciliteterne. Vi håber, at du vil hjælpe med at støtte fonden."
+header:
+  overlay_image: /assets/images/ole-damgaard-frontpage.jpg
+  caption: Ole Damgaard, forstander på Vejle Idrætshøjskole
+  actions:
+    - label: "<i class='fas fa-money-bill-alt'></i> Få medlemsskab"
+      url: /medlem/
+    - label: "<i class='fas fa-money-bill-alt'></i> Giv kontantbidrag"
+      url: /bidrag/
+intro: 
+  - excerpt: "Fondens formål er at støtte udviklingen af Vejle Idrætshøjskoles og Idrætsefterskoles faciliteter. Støt Vejle Idrætshøjskoles Fond og vær med til at sikre skolens fremtid og skabe stjernestunder på skolen."
+feature_row_od:
+  - image_path: /assets/images/od.jpg
+    excerpt: >-
+      <p></p>
+      <p>--- <cite>Ole Damgaard, forstander på højskolen</cite></p>
+feature_row:
+  - title: Carsten Lang Petersen
+    image_path: /assets/images/carsten-lang_0.jpg
+    excerpt: "formand for bestyrelsen"
+  - title: Ole Damgaard
+    image_path: /assets/images/od.jpg
+    excerpt: "forstander for højskolen"
+  - title: Frank Rasmussen
+    image_path: /assets/images/frank1.jpg
+    excerpt: "forstander efterskolen"
 ---
 
-{% assign projects = site.pages | where: "tags", "medlemsskab" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include grid.html grid=projects %}
+{% assign memberships = site.pages | where: "tags", "medlemsskab" %}
+
+{% for post in memberships %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+<hr>
+
+{% include feature_row %}

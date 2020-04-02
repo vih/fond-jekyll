@@ -9,6 +9,11 @@ intro: >
   naturlige bakterier og planter, som holder søen ren. Et moderne alternativ til
   de forældede friluftsbade.
 ---
+
+**{{ page.intro }}**
+
+{% include figure image_path=page.image caption=page.title %}
+
 Inden længe kan vejlenserne bade i en helt ren sø. Det er sandfiltre, naturlige bakterier og planter, som holder søen ren. Et moderne alternativ til de forældede friluftsbade.
 
 Om kort tid gå arbejdet igang med at bygge det eksisterende badeanlæg ved Vejle Idrætsefterskole og Vejle Idrætshøjskole i Nørreskoven om.
@@ -23,9 +28,7 @@ Friluftsbadet laves om til en svømmesø, som renses med sand, planter og naturl
 
 I den kemikaliefri sø vil vandet føles ”blødere” at svømme i, og det vil være renere.
 
-
-{% include figure image_path="/assets/images/uploads/svomme-1.png" caption="Det gamle friluftsbad i Vejle bygges om til en naturlig svømmesø og rekreativt område. Foto: Arkitektfirmaet Krads
-" %}
+{% include figure image_path="/assets/images/uploads/svomme-1.png" caption="Det gamle friluftsbad i Vejle bygges om til en naturlig svømmesø og rekreativt område. Foto: Arkitektfirmaet Krads" %}
 
 Vejles borgere får adgang til at benytte den nye sø om morgenen og eftermiddagen, når eleverne på højskolen og efterskolen ikke bruger søen.
 
@@ -39,12 +42,9 @@ Omkring svømmesøen laves der et udspringstårn, et 890 m² stort trædæk med 
 
 Ved siden af svømmesøen laves der desuden et stort 135 trædæk i forskudte plateauer med ramper og trapper og med en overdækning på toppen. Højen, som den kaldes, bliver bindeleddet mellem natur og skoleområde, og der kommer en svævebane fra den ned til skoven.
 
-
-{% include figure image_path="/assets/images/uploads/hoejen.png" caption="Det gamle friluftsbad i Vejle bygges om til en naturlig svømmesø og rekreativt område. Foto: Arkitektfirmaet Krads
-" %}
+{% include figure image_path="/assets/images/uploads/hoejen.png" caption="Det gamle friluftsbad i Vejle bygges om til en naturlig svømmesø og rekreativt område. Foto: Arkitektfirmaet Krads" %}
 
 Desuden laves der et 120 m² stort udendørs depot til mountainbikes, klatreudstyr, havkajakker og andet grej til det aktive friluftsliv.
-
 
 Aquascape, som projektet kaldes, er tegnet af arkitekterne fra Krads, og koster 14,9 mio. kr. at etablere. Endnu mangler der 2,5 mio kr. før svømmesøen er en realitet, men skolerne satser på, at de sidste penge findes og projektet står færdigt sommeren 2017.
 

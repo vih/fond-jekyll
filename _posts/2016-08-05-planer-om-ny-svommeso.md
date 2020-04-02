@@ -1,17 +1,32 @@
 ---
-title: Planer om ny svømmesø
+title: &title Planer om ny svømmesø
 category: Nybyggeri
 tags:
   - status
 image: /assets/images/uploads/svoemmesoe-2-.png
 intro: >
-  Svømmesø og aktivitetsområde
-
-
   I forbindelse med en renovering af friluftsbadet på Vejle Idrætshøjskole
   ønsker højskolen at skabe et nyt, unikt aktivitets- og oplevelsesområde under
   overskriften: Outdoor AquaScape – aktivitetszone og rekreativt univers.
+gallery:
+  - url: /assets/images/uploads/svomme-1.png
+    image_path: /assets/images/uploads/svomme-1.png
+    alt: *title
+    title: *title
+  - url: /assets/images/uploads/hoejen.png
+    image_path: /assets/images/uploads/hoejen.png
+    alt: *title
+    title: *title
+  - url: /assets/images/uploads/svoemmesoe-2-.png
+    image_path: /assets/images/uploads/svoemmesoe-2-.png
+    alt: *title
+    title: *title
 ---
+
+**{{ page.intro }}**
+
+{% include figure image_path=page.image caption=page.title %}
+
 Tanken er at omdanne skolernes gamle friluftsbad til en miljø- og energirigtig svømmesø en ny moderne svømmesø, som vil være offentligt tilgængelig.
 
 ## Fra friluftsbassin til moderne svømmesø
@@ -26,6 +41,4 @@ Til de nye planer hører også udvikling af området mellem badet og skoven med 
 
 Planerne afhænger af tilsagn om støtte fra forskellige fonde.
 
-![](/assets/images/uploads/svomme-1.png)
-![](/assets/images/uploads/hoejen.png)
-![](/assets/images/uploads/svoemmesoe-2-.png)
+{% include gallery class="full" %}

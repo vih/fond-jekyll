@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: single
 permalink: /aquascape/
 show_headline: true
 title: "Aquascape - Svømmesø og aktivitetsområde"
 intro: "I forbindelse med en renovering af friluftsbadet på Vejle Idrætshøjskole ønsker højskolen at skabe et nyt, unikt aktivitets- og oplevelsesområde under overskriften: Outdoor AquaScape – aktivitetszone og rekreativt univers."
-hero:
-  image: /assets/images/hans.jpg
-  text: >-
-    <p>Det er virkelig spændende at være en del af udviklingen på efterskolen i øjeblikket. Vi vil være den bedste idrætsefterskole i Danmark, og med mit fag bliver jeg især glad, når jeg kigger ud på, at kunstgræsbanen er blevet renoveret, og at vi har fået lavet en ordentlig atletikbane. Jeg håber, at du vil være med til at støtte op omkring skolen ved at give et bidrag til fonden.</p>
-    <p>- Hans Hansen, lærer på efterskolen</p>
+sidebar:
+  - image: /assets/images/hans.jpg
+    text: >-
+      <p>Det er virkelig spændende at være en del af udviklingen på efterskolen i øjeblikket. Vi vil være den bedste idrætsefterskole i Danmark, og med mit fag bliver jeg især glad, når jeg kigger ud på, at kunstgræsbanen er blevet renoveret, og at vi har fået lavet en ordentlig atletikbane. Jeg håber, at du vil være med til at støtte op omkring skolen ved at give et bidrag til fonden.</p>
+      <p>- Hans Hansen, lærer på efterskolen</p>
 tags:
   - projekter
 ---

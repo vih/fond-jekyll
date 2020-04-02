@@ -1,14 +1,21 @@
 ---
-layout: page
+layout: single
 permalink: /medlem/
 redirect_from: /content/medlemsskab-af-fonden
 published: true
 show_headline: true
 title: "Få medlemsskab"
+header:
+  overlay_image: /assets/images/luftfoto.jpg
+  actions:
+    - label: "<i class='fas fa-money-bill-alt'></i> Få medlemsskab"
+      url: /medlem/buy/
 intro: &description "Få et årligt medlemsskab af Vejle Idrætshøjskoles fond og vær med til at sikre endnu flere stjernestunder på skolen."
 description: *description
+excerpt: *description
 tags:
   - medlemsskab
+author_profile: true
 ---
 
 - Få gratis adgang til foredrag (for alle der har givet mindst 200 kroner)
@@ -19,4 +26,4 @@ tags:
 
 Medlemsskabet gælder for et kalenderår - og trækkes årligt. Du kan også [give et enkeltbidrag](/bidrag/), hvis du hellere vil det.
 
-[Få medlemsskab](/medlem/buy){: .btn .btn-warning .btn-large} [Giv et enkeltbidrag](/bidrag/buy){: .btn}
+[Få medlemsskab](/medlem/buy){: .btn .btn--warning .btn--large} [Giv et enkeltbidrag](/bidrag/buy){: .btn }
