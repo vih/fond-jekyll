@@ -9,6 +9,11 @@ intro: >-
   bruges til at realisere svømmesøen (som vi er gået i gang med). Vi samler
   stadig ind for at kunne forbedre projektet endnu mere.
 ---
+
+**{{ page.intro }}**
+
+{% include figure image_path=page.image caption=page.title %}
+
 De seneste år har vi sparet sammen i fonden, så bidragene i fonden kunne bruges til at realisere svømmesøen (som vi er gået i gang med). Vi samler stadig ind for at kunne forbedre projektet endnu mere.
 
 **Støtte til afsættet fra vipperne - vi mangler 57.881 kroner**

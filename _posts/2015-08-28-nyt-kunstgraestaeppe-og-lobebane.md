@@ -10,6 +10,11 @@ intro: >-
   renovere løbebanen rundt om. I alt taler vi altså om et projekt på 4 millioner
   kroner.
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include figure image_path=page.image caption=page.title %}
+
 Vores kunstgræsbane ”Wembley” er anlagt i 2003 i samarbejde med Vejle Kommune og DBU. Banen er et vigtigt aktiv for skolen, da både efterskole og højskole dagligt træner fodbold på banen. I de timer hvor vi ikke selv bruger banen, lejes den ud til lokale idrætsforeninger.
 
 Banen bærer præg af megen slid efter 10 års intensivt brug. Græstæppet er slidt, hvilket betyder, at banen bliver hård at spille på. Den fodboldmæssige oplevelse ligner ikke længere den på græs. Bolden ”opfører” sig simpelthen anderledes. 

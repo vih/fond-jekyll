@@ -4,11 +4,9 @@ category: Nybyggeri
 tags:
   - status
 image: /assets/images/uploads/outdoor-traeningsstativ.jpg
-intro: >-
-  I samarbejde med vores elever har vi bygget et outdoor træningsstativ, hvor
-  der er alsidige muligheder for at træne. Der er stationer til pullups, reb til
-  klatring, balancebom, ringsvingbane og masser af andre muligheder.
 ---
+
+{% include figure image_path=page.image caption=page.title %}
 
 I samarbejde med vores elever har vi bygget et outdoor træningsstativ, hvor der er alsidige muligheder for at træne. Der er stationer til pullups, reb til klatring, balancebom, ringsvingbane og masser af andre muligheder.
 

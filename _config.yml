@@ -75,37 +75,18 @@ social:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: ""
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: ""
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "http://github.com/vih/fond-jekyll"
-
-# Address
-address:
-  - Vejle Idrætsskolers Fond
-  - Ørnebjergvej 28
-  - 7100 Vejle
-
-
-
-# Footer
-footer:
-  address_headline: "Adresse"
-  links_headline: "Links"
-  links:
-    - title: "Vejle Idrætshøjskole"
+    - label: "Vejle Idrætshøjskole"
       url: "http://www.vih.dk"
-    - title: "Vejle Idrætsefterskole"
+      icon: "fas fa-fw fa-globe"
+    - label: "Vejle Idrætsefterskole"
       url: "http://www.vies.dk"
-    - title: "Privatlivspolitik"
+      icon: "fas fa-fw fa-globe"
+    - label: "Privatlivspolitik"
       url: "/privatlivspolitik/"
-  about_headline: "Om Fonden"
-  about: "Fondens formål er at støtte udviklingen af Vejle Idrætshøjskoles og Idrætsefterskoles faciliteter."
+      icon: "fas fa-fw fas fa-user-shield"
+    - label: "Ørnebjergvej 28, 7100 Vejle"
+      icon: "fas fa-fw fa-envelope"
+      url: "/kontakt/"
 
 
 # Site Author
@@ -115,14 +96,8 @@ author:
   avatar: "/android-chrome-192x192.png"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:webmaster@vih.dk"
-    - label: "Vejle Idrætshøjskole"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://www.vih.dk"
-    - label: "Vejle Idrætsefterskole"
-      icon: "fas fa-fw fa-sync-alt"
-      url: "http://www.vies.dk"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:info@vih.dk"
 
 
 # Reading Files
@@ -273,7 +248,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
-      toc: true
+      toc: false

@@ -5,6 +5,8 @@ title: Privatlivs- og cookiepolitik for Vejle Idrætsskolers Fond
 show_headline: true
 intro: &description Dette er privatlivspolitikken for fond.vih.dk. Politikken gælder fra den 9. maj 2018.
 description: *description
+toc: true
+toc_sticky: true
 ---
 
 Dette er privatlivspolitikken for websitet fond.vih.dk styret af Vejle Idrætshøjskole og -Idrætsefterskole. Politikken gælder fra den 9. maj 2018.
