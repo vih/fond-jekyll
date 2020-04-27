@@ -3,6 +3,7 @@ title: Outdoor træningsstativ
 category: Nybyggeri
 tags:
   - status
+  - projekter
 image: /assets/images/uploads/outdoor-traeningsstativ.jpg
 ---
 

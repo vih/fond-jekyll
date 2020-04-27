@@ -3,6 +3,7 @@ title: 100 bidragydere samlet
 category: Status
 tags:
   - status
+  - medlemsskab
 image: /assets/images/uploads/1369689920zszh.jpg
 ---
 

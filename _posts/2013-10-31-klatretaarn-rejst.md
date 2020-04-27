@@ -3,6 +3,7 @@ title: Klatretårn rejst
 category: Nybyggeri
 tags:
   - status
+  - projekter
 image: /assets/images/uploads/klatretarn.jpg
 ---
 

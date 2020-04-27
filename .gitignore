@@ -3,3 +3,4 @@ Gemfile.lock
 _site
 npm-debug.log
 .jekyll-metadata
+.jekyll-cache

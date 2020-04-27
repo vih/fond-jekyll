@@ -5,8 +5,6 @@ tags:
   - status
 ---
 
-{% include figure image_path=page.image caption=page.title %}
-
 ## Nyt gulv i træningssalen
 
 Gulvet i træningssalen havde efterhånden udtjent sin værnepligt. Det var sjovt at se, da gulvet blev fjernet, at det var lagt direkte oven på det oprindelige filtgulv. Nu er det en helstøbt løsning - og et virkelig lækkert gulv.
@@ -17,7 +15,7 @@ Gulvet i træningssalen havde efterhånden udtjent sin værnepligt. Det var sjov
 
 Som du måske allerede har hørt, ønsker Vejle Idrætshøjskole at skabe et nyt udendørs område på skolerne. Det nye område centrerer sig om det gamle friluftsbassin, der omdannes til en miljø- og energirigtig svømmesø, hvor vandet renses biologisk via filtre og planter, i modsætning til konventionelle bassiner med klorrensning af vandet.
 
-Læs mere på [Outdoor - Aquascape - Nyt udendørsområde](https://vih.dk/nyhed/outdoor-aquascape-nyt-udendoersomraade-med-renovere)
+Læs mere på [Outdoor - Aquascape - Nyt udendørsområde](https://www.vih.dk/nyhed/outdoor-aquascape-nyt-udendorsomrade-med-renoveret-friluftsbad)
 
 Planen er, at området skal stå klar til brug i foråret 2018.
 
