@@ -54,7 +54,7 @@ yandex_site_verification :
 analytics:
   provider               : "google-universal" # false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-135758727-1"
+    tracking_id          : "UA-4137620-4"
 
 
 # Social Sharing
