@@ -17,7 +17,7 @@ subtitle                 : "Støt udviklingen af Vejle Idrætshøjskole og Vejle
 name                     : "Vejle Idrætsskolers Fond"
 description              : "Vejle Idrætsskolers Fond er at støtte udviklingen af Vejle Idrætshøjskoles og Idrætsefterskoles faciliteter."
 logo                     : "/android-chrome-192x192.png"
-url                      : "http://fond.vih.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fond.vih.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 email                    : "webmaster@vih.dk"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vih/fond-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
