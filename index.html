@@ -27,15 +27,36 @@ feature_row:
   - title: Frank Rasmussen
     image_path: /assets/images/frank1.jpg
     excerpt: "forstander efterskolen"
+feature_row_products:
+  - title: Få medlemsskab
+    excerpt: "Få et årligt medlemsskab af Vejle Idrætshøjskole fond og vær med til at sikre endnu flere stjernestunder på skolerne. Fornys automatisk."
+    url: /bidrag/
+    btn_class: btn--success
+    btn_label: Få medlemsskab
+  - title: Kontantbidrag
+    excerpt: "Støt Vejle Idrætshøjskole med et kontant enkeltbidrag, der gælder for indeværende år."
+    url: /medlem/
+    btn_class: btn--info
+    btn_label: Giv kontantbidrag
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% assign memberships = site.pages | where: "tags", "medlemsskab" %}
+{% include feature_row id="feature_row_products" type="center" %}
 
-{% for post in memberships %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+<h2>Opdateringer</h2>
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | sort: "date" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>
 
 <hr>
 
