@@ -5,6 +5,7 @@ header:
   overlay_image: https://drive.google.com/uc?id=1ssxzWE5cvU0vj3miu5cCPTzaeEyZUGuh
   teaser: https://drive.google.com/uc?id=1ssxzWE5cvU0vj3miu5cCPTzaeEyZUGuh
   overlay_filter: 0
+toc: true
 tags:
   - status
 gallery_globen:
@@ -91,8 +92,8 @@ gallery_globen_inside:
     alt: "Globen November 2019"
     title: "Globen November 2019"
 gallery_globen_new:
-  - url: https://drive.google.com/uc?id=152HP-Cbd1nP_wor75penblLlZyq7KD-X
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=152HP-Cbd1nP_wor75penblLlZyq7KD-X&w=400
+  - url: https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh
+    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=15WFCkC8oA6L4BCOJX9Eeq9hc4Ho7xVU-
@@ -119,7 +120,11 @@ I løbet af foråret er planen at gå i gang med en renovering af Globen indvend
 
 {% include gallery id="gallery_globen_inside" class="full" %}
 
-Fondens midler er lige nu reserveret til at hjælpe med at betale for alle de nye omkring 160-170 stole, der skal sættes i Globen. Måske vil du være medlem?
+Fondens midler er lige nu reserveret til at hjælpe med at betale for alle de nye omkring 160-170 stole, der skal sættes i Globen.
+
+{% include gallery id="gallery_globen_new" class="full" %}
+
+Måske vil du være medlem og støtte indkøbet af stole?
 
 [Få medlemsskab](/medlem/buy){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
 
