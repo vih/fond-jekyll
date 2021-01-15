@@ -32,4 +32,4 @@ Ved et enkeltbidrag bliver du medlem af fonden i indeværende år.
 
 Du kan også [få årligt medlemsskab af fonden](/medlem/), hvis du vil automatisere det hele.
 
-[Giv et bidrag](/bidrag/buy){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy){: .btn }
+[Giv 200,- i et enkeltbidrag](/bidrag/buy){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy){: .btn }
