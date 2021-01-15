@@ -5,7 +5,7 @@ published: true
 show_headline: true
 title: "Donér en stol til Globen"
 header:
-  overlay_image: /assets/images/luftfoto.jpg
+  overlay_image: https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh
   actions:
     - label: "<i class='fas fa-money-bill-alt'></i> Doner en stol til Globen"
       url: /medlem/buy/
@@ -15,6 +15,12 @@ excerpt: *description
 tags:
   - medlemsskab
 author_profile: true
+gallery_globen_new:
+  - url: https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh
+    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
+    alt: "Globen November 2019"
+    title: "Globen November 2019"
+classes: wide
 ---
 
 Vi er lige nu gået i gang med at renovere Globen indvendigt. Vi skal bl.a. skifte alle stolene.
@@ -28,3 +34,5 @@ En ny stol koster 3.982,- kroner inklusiv moms. Hvis du har lyst til at støtte 
 Du kan også få et [fortløbende medlemsskab af fonden](/medlem/) eller [give et kontant enkeltbidrag](/bidrag/).
 
 [Donér en stol til 3.982,-](/stol/buy){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy){: .btn } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+
+{% include gallery id="gallery_globen_new" caption="De nye stole til Globen forventer vi kommer nogenlunde til at se sådan her ud." %}
