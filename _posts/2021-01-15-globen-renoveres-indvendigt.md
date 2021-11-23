@@ -4,7 +4,7 @@ category: Nybyggeri
 header:
   overlay_image: https://drive.google.com/uc?id=1HNo8PJHv_f5bY6STY9nvNyLTViB1Bdcp
   teaser: https://drive.google.com/uc?id=1HNo8PJHv_f5bY6STY9nvNyLTViB1Bdcp
-  overlay_filter: 0
+  overlay_filter: 0.1
 toc: true
 tags:
   - status
