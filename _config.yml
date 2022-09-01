@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.24.0"
+theme:            "minimal-mistakes-jekyll"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
@@ -18,7 +18,7 @@ name                     : "Vejle Idrætsskolers Fond"
 description              : "Vejle Idrætsskolers Fond er at støtte udviklingen af Vejle Idrætshøjskoles og Idrætsefterskoles faciliteter."
 logo                     : "/android-chrome-192x192.png"
 url                      : "https://fond.vih.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-email                    : "webmaster@vih.dk"
+email                    : "kontor@vih.dk"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vih/fond-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -76,10 +76,10 @@ social:
 footer:
   links:
     - label: "Vejle Idrætshøjskole"
-      url: "http://www.vih.dk"
+      url: "https://www.vih.dk"
       icon: "fas fa-fw fa-globe"
     - label: "Vejle Idrætsefterskole"
-      url: "http://www.vies.dk"
+      url: "https://www.vies.dk"
       icon: "fas fa-fw fa-globe"
     - label: "Privatlivspolitik"
       url: "/privatlivspolitik/"
@@ -97,7 +97,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:info@vih.dk"
+      url: "mailto:kontor@vih.dk"
 
 
 # Reading Files
