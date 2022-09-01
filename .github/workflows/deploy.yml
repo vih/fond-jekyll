@@ -76,6 +76,5 @@ jobs:
             --allow-hash-href true
             --ignore-empty-alt true
             --cache '{ "timeframe": { "external": "7d" } }'
-            # The arguments to pass to HTMLProofer
       - name: ☁️ Cleaning up
         run: bundle exec jekyll clean
