@@ -39,9 +39,6 @@ jobs:
         with:
           ruby-version: ${{ env.RUBY_VERSION }} # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - name: ⚡️ Setting up dependencies
-        run: |
-          bundle install
       - name: Checking Jekyll configuration
         run: bundle exec jekyll doctor
       - name: 🔨 Build site
