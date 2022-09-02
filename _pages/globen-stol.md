@@ -17,7 +17,7 @@ tags:
 author_profile: true
 gallery_globen_new:
   - url: https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
 classes: wide

@@ -10,40 +10,40 @@ tags:
   - status
 gallery:
   - url: https://drive.google.com/uc?id=1qcIMN5grtuhR2qEafUSy1qZSoAH-jpq-
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1qcIMN5grtuhR2qEafUSy1qZSoAH-jpq-&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1qcIMN5grtuhR2qEafUSy1qZSoAH-jpq-&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1Y6QN0T2qmrJO6aKFQnnTX5jIyZG9DvaC
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1Y6QN0T2qmrJO6aKFQnnTX5jIyZG9DvaC&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1Y6QN0T2qmrJO6aKFQnnTX5jIyZG9DvaC&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1doQqxrmedeTqNNxyONEhvP7vrwTISJJA
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1doQqxrmedeTqNNxyONEhvP7vrwTISJJA&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1doQqxrmedeTqNNxyONEhvP7vrwTISJJA&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1T5QGEKGBcFDEVHNMB6OXTvh1LX9ktZc1
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1T5QGEKGBcFDEVHNMB6OXTvh1LX9ktZc1&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1T5QGEKGBcFDEVHNMB6OXTvh1LX9ktZc1&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1v9Cme34xUpIGHFcvCJy7yvqFZ_OMRxan
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1v9Cme34xUpIGHFcvCJy7yvqFZ_OMRxan&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1v9Cme34xUpIGHFcvCJy7yvqFZ_OMRxan&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
   - url: https://drive.google.com/uc?id=1A5FvmlQLhYOFVlP7sKzgKELUdzXB-_mB
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1A5FvmlQLhYOFVlP7sKzgKELUdzXB-_mB&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1A5FvmlQLhYOFVlP7sKzgKELUdzXB-_mB&w=400
     alt: "Globen Januar 2021"
     title: "Globen Januar 2021"
 gallery_stillads:
   - url: https://drive.google.com/uc?id=1ZZMuEpODjRCn3f3uYZX9DX6Mo3-9JGsN
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1ZZMuEpODjRCn3f3uYZX9DX6Mo3-9JGsN&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1ZZMuEpODjRCn3f3uYZX9DX6Mo3-9JGsN&w=400
     alt: "Globen November 2021"
     title: "Globen November 2021"
   - url: https://drive.google.com/uc?id=1y0IkadbvDBjGzlq4BGH2LeCYTB_T8NdK
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1y0IkadbvDBjGzlq4BGH2LeCYTB_T8NdK&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1y0IkadbvDBjGzlq4BGH2LeCYTB_T8NdK&w=400
     alt: "Globen November 2021"
     title: "Globen November 2021"
   - url: https://drive.google.com/uc?id=1Vh9_EU9U6UqPfw6wk6mOAnlpAENrnOO3
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1Vh9_EU9U6UqPfw6wk6mOAnlpAENrnOO3&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1Vh9_EU9U6UqPfw6wk6mOAnlpAENrnOO3&w=400
     alt: "Globen November 2021"
     title: "Globen November 2021"
 ---

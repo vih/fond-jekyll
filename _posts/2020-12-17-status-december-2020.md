@@ -56,48 +56,48 @@ gallery_havestue:
     title: *title
 gallery_globen_inside:
   - url: https://drive.google.com/uc?id=14nk3wOdNdVGdIaEdz0nLAFh3wisaCG4q
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14nk3wOdNdVGdIaEdz0nLAFh3wisaCG4q&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14nk3wOdNdVGdIaEdz0nLAFh3wisaCG4q&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14o5J964cHHUUgdmTv5T-sT_kMwAnEjxa
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14o5J964cHHUUgdmTv5T-sT_kMwAnEjxa&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14o5J964cHHUUgdmTv5T-sT_kMwAnEjxa&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14u_Oy39zx4IBGdEbLJW760wjKGE-WC4Q
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14u_Oy39zx4IBGdEbLJW760wjKGE-WC4Q&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14u_Oy39zx4IBGdEbLJW760wjKGE-WC4Q&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14paYuirWTUGYaN8lgzwTDSrGWcdR1j2w
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14paYuirWTUGYaN8lgzwTDSrGWcdR1j2w&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14paYuirWTUGYaN8lgzwTDSrGWcdR1j2w&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14ibOJXbMsfjJKOj5PZt6wBijgv-8aBqQ
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14ibOJXbMsfjJKOj5PZt6wBijgv-8aBqQ&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14ibOJXbMsfjJKOj5PZt6wBijgv-8aBqQ&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14i5yqAa2kQkfFcGIOozgWsPZM-ihtNnY
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14i5yqAa2kQkfFcGIOozgWsPZM-ihtNnY&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14i5yqAa2kQkfFcGIOozgWsPZM-ihtNnY&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=14gF4Ric2rDlwyOhjpZeeVRuZjYxewv8p
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=14gF4Ric2rDlwyOhjpZeeVRuZjYxewv8p&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=14gF4Ric2rDlwyOhjpZeeVRuZjYxewv8p&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=15-N653MBwgGnluMhsyPsdSeDlpDFJ_s1
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=15-N653MBwgGnluMhsyPsdSeDlpDFJ_s1&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=15-N653MBwgGnluMhsyPsdSeDlpDFJ_s1&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=15-kz-WXuYiJ6OL4piSZvQ3vias1Qk6VF
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=15-kz-WXuYiJ6OL4piSZvQ3vias1Qk6VF&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=15-kz-WXuYiJ6OL4piSZvQ3vias1Qk6VF&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
 gallery_globen_new:
   - url: https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
   - url: https://drive.google.com/uc?id=15WFCkC8oA6L4BCOJX9Eeq9hc4Ho7xVU-
-    image_path: //images.weserv.nl/?url=https://drive.google.com/uc?id=15WFCkC8oA6L4BCOJX9Eeq9hc4Ho7xVU-&w=400
+    image_path: https://images.weserv.nl/?url=https://drive.google.com/uc?id=15WFCkC8oA6L4BCOJX9Eeq9hc4Ho7xVU-&w=400
     alt: "Globen November 2019"
     title: "Globen November 2019"
 ---
@@ -108,9 +108,9 @@ I foråret skal vi vi gang med at renovere Globen indvendigt. Fondens midler er 
 
 ## Globen er renoveret udvendigt
 
-Globen er blevet renoveret udvendigt. Globen blev bygget i 1992 og stod klar til indvielse i januar 1993. Den trængte kraftigt til en renovering, fordi der var mindre konstruktionsfejl i toppen af Globen, som gjorde at træværket i skallen over hele perioden indtil nu havde fået fugt. Derfor har det været nødvendigt at skifte en stor del af træskelettet på den ene side af Globen. 
+Globen er blevet renoveret udvendigt. Globen blev bygget i 1992 og stod klar til indvielse i januar 1993. Den trængte kraftigt til en renovering, fordi der var mindre konstruktionsfejl i toppen af Globen, som gjorde at træværket i skallen over hele perioden indtil nu havde fået fugt. Derfor har det været nødvendigt at skifte en stor del af træskelettet på den ene side af Globen.
 
-Alle sølvtrekanterne har været taget af. Men da sølvtrekanterne ikke har samme form, så har håndværkerne mærket hver eneste sølvtrekant op, så de kunne samle puslespillet igen bagefter. 
+Alle sølvtrekanterne har været taget af. Men da sølvtrekanterne ikke har samme form, så har håndværkerne mærket hver eneste sølvtrekant op, så de kunne samle puslespillet igen bagefter.
 
 {% include gallery id="gallery_globen" class="full" %}
 
