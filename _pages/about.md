@@ -56,6 +56,6 @@ Tak for din interesse i at støtte skolen
 
 ## Læs mere om skolerne
 
-Du kan læse mere om skolerne på hhv. [www.vih.dk](http://www.vih.dk) og [www.vies.dk](http://www.vies.dk).
+Du kan læse mere om skolerne på hhv. [www.vih.dk](https://www.vih.dk) og [www.vies.dk](https://www.vies.dk).
 
 {% include feature_row %}
