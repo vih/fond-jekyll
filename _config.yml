@@ -76,10 +76,10 @@ social:
 footer:
   links:
     - label: "Vejle Idrætshøjskole"
-      url: "https://www.vih.dk"
+      url: "https://www.vih.dk/"
       icon: "fas fa-fw fa-globe"
     - label: "Vejle Idrætsefterskole"
-      url: "https://www.vies.dk"
+      url: "https://www.vies.dk/"
       icon: "fas fa-fw fa-globe"
     - label: "Privatlivspolitik"
       url: "/privatlivspolitik/"
@@ -184,7 +184,8 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-include-cache
-
+  - jekyll-gzip
+  - jekyll-brotli
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -234,8 +235,6 @@ compress_html:
 
 # Add custom collections
 collections:
-  pages:
-    output: true
 
 
 # Defaults
