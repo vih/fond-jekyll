@@ -8,7 +8,7 @@ header:
   overlay_image: https://drive.google.com/uc?id=1ifNeNNhWd7HlMnLonwPtbWY1sw_G1HOh
   actions:
     - label: "<i class='fas fa-money-bill-alt'></i> Doner en stol til Globen"
-      url: /medlem/buy/
+      url: /stol/buy/
 intro: &description "Du har mulighed for at være med til at donere en ny stol til Globen. Lige nu renoverer vi Globen indvendigt, og vi skal have købt 180 nye stole."
 description: *description
 excerpt: *description
