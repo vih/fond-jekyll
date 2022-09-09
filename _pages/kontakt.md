@@ -2,7 +2,13 @@
 layout: single
 permalink: /kontakt/
 title: "Kontakt os"
-intro: "Du kan bruge nedenstående formular til at kontakte os angående mere generelle henvendelser. Hvis du er interesseret i én af de enkelte tests, så klik dig gerne ind under den og kontakt os der igennem."
+author_profile: true
 ---
 
-{% include formspree.html %}
+Hvis du vil kontakte os angående fonden, så skriv til følgende.
+
+Vejle Idrætshøjskoles Fond<br>
+Ørnebjergvej 28<br>
+7100 Vejle<br>
+CVR 36850728<br>
+E-mail: {{ site.email }}

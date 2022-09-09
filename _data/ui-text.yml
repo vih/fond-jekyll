@@ -889,6 +889,10 @@ da: &DEFAULT_DA
   search_placeholder_text    : "Hvad leder du efter..."
   results_found              : "Resultat(er) fundet"
   back_to_top                : "Tilbage til toppen"
+  contact_form_submit                : "Send"
+  contact_form_name          : "Navn"
+  contact_form_subject       : "Emne"
+  contact_form_message       : "Skriv din tekst her"
 da-DK:
   <<: *DEFAULT_DA
 
