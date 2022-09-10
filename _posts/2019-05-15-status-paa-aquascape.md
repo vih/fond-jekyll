@@ -27,4 +27,4 @@ Vi håber at du vil være med til at støtte projektet.
 
 Du kan enten støtte gennem at [oprette et medlemsskab](/medlem/) eller ved en [enkeltstående donation](/bidrag/).
 
-[Få medlemsskab](/medlem/buy){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Få medlemsskab](/medlem/buy/){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](/bidrag/buy/){: .btn }

@@ -33,6 +33,6 @@ En ny stol koster 3.982,- kroner inklusiv moms. Hvis du har lyst til at støtte 
 
 Du kan også få et [fortløbende medlemsskab af fonden](/medlem/) eller [give et kontant enkeltbidrag](/bidrag/).
 
-[Donér en stol til 3.982,-](/stol/buy){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy){: .btn } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Donér en stol til 3.982,-](/stol/buy/){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy/){: .btn } [Giv et enkeltbidrag](/bidrag/buy/){: .btn }
 
 {% include gallery id="gallery_globen_new" caption="De nye stole til Globen forventer vi kommer nogenlunde til at se sådan her ud." %}

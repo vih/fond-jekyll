@@ -3,7 +3,7 @@ title: &title "Globen er nu færdigrenoveret"
 category: Nybyggeri
 header:
   overlay_image: https://drive.google.com/uc?id=1A5FvmlQLhYOFVlP7sKzgKELUdzXB-_mB
-  teaser: https://drive.google.com/uc?id=1A5FvmlQLhYOFVlP7sKzgKELUdzXB-_mB
+  teaser: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1A5FvmlQLhYOFVlP7sKzgKELUdzXB-_mB&w=400
   overlay_filter: 0
 toc: true
 tags:
@@ -68,4 +68,4 @@ Selvom vi er færdige, så er vi stadig meget interesserede i, hvis du har lyst 
 
 Måske vil du være medlem og støtte indkøbet af stole?
 
-[Donér en stol](/stol/buy){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy){: .btn } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Donér en stol](/stol/buy/){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy/){: .btn } [Giv et enkeltbidrag](/bidrag/buy/){: .btn }

@@ -76,4 +76,4 @@ Du kan se vores foreløbige plan for de nye stole her.
 
 Måske vil du være medlem og støtte indkøbet af stole?
 
-[Donér en stol](/stol/buy){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy){: .btn } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Donér en stol](/stol/buy/){: .btn .btn--warning .btn--large } [Få medlemsskab](/medlem/buy/){: .btn } [Giv et enkeltbidrag](/bidrag/buy/){: .btn }

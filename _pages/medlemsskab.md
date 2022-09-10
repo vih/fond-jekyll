@@ -28,4 +28,4 @@ author_profile: true
 
 Medlemsskabet gælder for et kalenderår - og trækkes årligt. Du kan også [give et enkeltbidrag](/bidrag/), hvis du hellere vil det.
 
-[Få medlemsskab 200,-/årligt](/medlem/buy){: .btn .btn--warning .btn--large} [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Få medlemsskab 200,-/årligt](/medlem/buy/){: .btn .btn--warning .btn--large} [Giv et enkeltbidrag](/bidrag/buy/){: .btn }

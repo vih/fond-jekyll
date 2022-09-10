@@ -28,4 +28,4 @@ Så snart vandet er klart, annoncerer vi en åbning for offentligheden. Du kan f
 
 Du kan enten støtte gennem at [oprette et medlemsskab](/medlem/) eller ved en [enkeltstående donation](/bidrag/).
 
-[Få medlemsskab](/medlem/buy){: .btn .btn--warning .btn--large} [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Få medlemsskab](/medlem/buy/){: .btn .btn--warning .btn--large} [Giv et enkeltbidrag](/bidrag/buy/){: .btn }

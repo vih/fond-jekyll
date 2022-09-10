@@ -126,7 +126,7 @@ Fondens midler er lige nu reserveret til at hjælpe med at betale for alle de ny
 
 Måske vil du være medlem og støtte indkøbet af stole?
 
-[Få medlemsskab](/medlem/buy){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Få medlemsskab](/medlem/buy/){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](/bidrag/buy/){: .btn }
 
 ## Nye opholdsfaciliteter til højskolen
 
@@ -134,4 +134,4 @@ Det voksende elevtal på højskolen har gjort det nødvendigt at udbygge havestu
 
 {% include gallery id="gallery_havestue" class="full" %}
 
-[Få medlemsskab](/medlem/buy){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](/bidrag/buy){: .btn }
+[Få medlemsskab](/medlem/buy/){: .btn .btn--warning .btn--large } [Giv et enkeltbidrag](/bidrag/buy/){: .btn }
