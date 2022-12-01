@@ -17,7 +17,7 @@ Vi har en klar politik om at beskytte dine personlige oplysninger. Her kan du l�
 
 Dette website udbydes af:
 
-Vejle Idrætshøjskoles Fond<br>
+Vejle Idrætsskolers Fond<br>
 Ørnebjergvej 28<br>
 7100 Vejle<br>
 CVR 36850728
@@ -95,4 +95,4 @@ Du kan fravælge cookies fra Google Analytics her: [tools.google.com/dlpage/gaop
 
 ## Ret til indsigt og klager
 
-Du har naturligvis ret til indsigt i hvilke oplysninger, vi har registrereret om dig. Disse rettigheder har du efter persondataloven og henvendelse i forbindelse hermed rettes til Vejle Idrætshøjskole via e-mail. I forbindelse med kurser kan vi naturligvis kun slette oplysninger, der er blevet forældede, da de skal bruges til indberetning til staten.
+Du har naturligvis ret til indsigt i hvilke oplysninger, vi har registrereret om dig. Disse rettigheder har du efter persondataloven og henvendelse i forbindelse hermed rettes til Vejle Idrætshøjskole og Idrætsefterskole via e-mail. I forbindelse med kurser kan vi naturligvis kun slette oplysninger, der er blevet forældede, da de skal bruges til indberetning til staten.

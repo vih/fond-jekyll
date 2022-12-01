@@ -10,7 +10,7 @@ header:
   actions:
     - label: "<i class='fas fa-money-bill-alt'></i> Få medlemsskab"
       url: /medlem/buy/
-intro: &description "Få et årligt medlemsskab af Vejle Idrætshøjskoles fond og vær med til at sikre endnu flere stjernestunder på skolen."
+intro: &description "Få et årligt medlemsskab af Vejle Idrætsskolers fond og vær med til at sikre endnu flere stjernestunder på skolen."
 description: *description
 excerpt: *description
 tags:

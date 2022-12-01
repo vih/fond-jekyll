@@ -5,7 +5,7 @@ tags:
   - status
 image: /assets/images/uploads/svoemmesoe-2-.png
 intro: >
-  I forbindelse med en renovering af friluftsbadet på Vejle Idrætshøjskole
+  I forbindelse med en renovering af friluftsbadet på Vejle Idrætsskoler
   ønsker højskolen at skabe et nyt, unikt aktivitets- og oplevelsesområde under
   overskriften: Outdoor AquaScape – aktivitetszone og rekreativt univers.
 gallery:

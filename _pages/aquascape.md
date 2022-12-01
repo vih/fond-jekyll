@@ -13,7 +13,7 @@ tags:
   - projekter
 ---
 
-I forbindelse med en renovering af friluftsbadet på Vejle Idrætshøjskole ønsker højskolen at skabe et nyt, unikt aktivitets- og oplevelsesområde under overskriften: Outdoor AquaScape – aktivitetszone og rekreativt univers.
+I forbindelse med en renovering af friluftsbadet på Vejle Idrætsskoler ønsker højskolen at skabe et nyt, unikt aktivitets- og oplevelsesområde under overskriften: Outdoor AquaScape – aktivitetszone og rekreativt univers.
 
 Tanken er at omdanne skolernes gamle friluftsbad til en miljø- og energirigtig svømmesø en ny moderne svømmesø, som vil være offentligt tilgængelig.
 

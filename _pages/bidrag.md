@@ -9,7 +9,7 @@ header:
   actions:
     - label: "<i class='fas fa-money-bill-alt'></i> Giv et bidrag"
       url: /bidrag/buy
-intro: &description "Støt Vejle Idrætshøjskole med et enkeltbidrag, som gælder for indeværende år."
+intro: &description "Støt Vejle Idrætsskoler med et enkeltbidrag, som gælder for indeværende år."
 excerpt: *description
 sidebar:
   - image: /assets/images/carsten-lang_0.jpg
