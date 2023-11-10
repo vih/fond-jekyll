@@ -21,6 +21,7 @@
     "watchify": "^3.11.1"
   },
   "scripts": {
-    "start": "bundle exec jekyll server --port 8080 --incremental"
+    "start": "bundle exec jekyll server --port 8080 --incremental",
+    "clean": "bundle exec jekyll clean"
   }
 }
