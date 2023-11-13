@@ -18,11 +18,10 @@ tags:
 author_profile: true
 ---
 
-- Få gratis adgang til foredrag (for alle der har givet mindst 200 kroner)
 - Få fast årligt skattefradrag for dit bidrag
-- Bliv inviteret til relevante arrangementer på skolen
 - Vær en del af holdet på 100 som er nødvendige for fondens opretholdelse
 - Vær med til at udvikle skolen og skabe endnu flere stjernestunder
+- Bliv inviteret til relevante arrangementer på skolen
 
 **Bidraget kan blive skattemæssigt fradragsberettiget. Det kræver, at du indtaster dit CPR-nummer, så får du et medlemsskab af fonden og bliver det fradragsberettiget.**
 

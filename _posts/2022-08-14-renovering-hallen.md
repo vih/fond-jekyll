@@ -1,7 +1,7 @@
 ---
 title: &title "Hallen er færdigrenovereret"
 category: Nybyggeri
-excerpt: I 2022 har vi renoveret idrætshallen. Idrætshallen som blev anlagt i 1958 i forbindelse med [genindvielsen af skolen](/genindvielsen/). I 2003 fik hallen også et nyt gulv, men nu var det altså tid igen til at idrætshallen blev opdateret til et nyt moderne udtryk med et tidsvarende sportsgulv.
+excerpt: I 2022 har vi renoveret idrætshallen. Idrætshallen som blev anlagt i 1958 i forbindelse med [genindvielsen af skolen](https://historie.vih.dk/genindvielsen/). I 2003 fik hallen også et nyt gulv, men nu var det altså tid igen til at idrætshallen blev opdateret til et nyt moderne udtryk med et tidsvarende sportsgulv.
 header:
   teaser: https://images.weserv.nl/?url=https://drive.google.com/uc?id=1hBO-Lwptvho-EEnNxWD7dpU5dwXXTNHr&w=400
   overlay_filter: 0

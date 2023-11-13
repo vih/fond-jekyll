@@ -22,11 +22,10 @@ tags:
 author_profile: true
 ---
 
-- Få gratis adgang til foredrag (for alle der har givet mindst 200 kroner)
 - Få skattefradrag for dit bidrag
 - Vær en del af holdet på 100 som er nødvendige for fondens opretholdelse
-- Bliv inviteret til relevante arrangementer på skolen
 - Vær med til at udvikle skolen og skabe endnu flere stjernestunder
+- Bliv inviteret til relevante arrangementer på skolen
 
 Ved et enkeltbidrag bliver du medlem af fonden i indeværende år.
 
