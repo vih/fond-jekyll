@@ -2,6 +2,7 @@
 layout: single
 permalink: /medlem/
 redirect_from: /content/medlemsskab-af-fonden
+redirect_to: https://www.vih.dk/fond/faa-medlemsskab/
 published: true
 show_headline: true
 title: "Få medlemsskab"

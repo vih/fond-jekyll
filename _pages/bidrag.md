@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /bidrag/
+redirect_to: https://www.vih.dk/fond/faa-medlemsskab/
 published: true
 show_headline: true
 title: "Enkeltbidrag"

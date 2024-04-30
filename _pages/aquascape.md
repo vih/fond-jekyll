@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /aquascape/
+redirect_to: https://www.vih.dk/svoemmesoe/
 show_headline: true
 title: "Aquascape - Svømmesø og aktivitetsområde"
 intro: "I forbindelse med en renovering af friluftsbadet på Vejle Idrætshøjskole ønsker højskolen at skabe et nyt, unikt aktivitets- og oplevelsesområde under overskriften: Outdoor AquaScape – aktivitetszone og rekreativt univers."

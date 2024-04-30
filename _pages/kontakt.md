@@ -3,6 +3,7 @@ layout: single
 permalink: /kontakt/
 title: "Kontakt os"
 author_profile: true
+redirect_to: https://www.vih.dk/fond/
 ---
 
 Hvis du vil kontakte os angående fonden, så skriv til følgende.

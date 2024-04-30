@@ -2,6 +2,7 @@
 layout: single
 permalink: /stot-globen-stol/
 published: true
+redirect_to: https://www.vih.dk/fond/faa-medlemsskab/
 show_headline: true
 title: "Donér en stol til Globen"
 header:
