@@ -1,0 +1,264 @@
+<!doctype html><html>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>Tilmeld dig Medlemsskab af Vejle Idrætsskolers fond
+</title>
+<link rel=stylesheet href=https://vih-fond.reepay.com/css/bootstrap.min.css>
+<link rel=stylesheet href=https://vih-fond.reepay.com/css/font-awesome.min.css>
+<link rel=stylesheet href=https://vih-fond.reepay.com/css/app.css>
+</head>
+<body>
+<div class=container-fluid>
+<div class="row medium-text test-banner">
+<div class="col-sm-10 col-sm-offset-1">
+</div>
+</div>
+<div class="row top-margin-80">
+<div class=col-md-12 style=padding-top:20px>
+<div class=error-details-modal style=display:none id=error_details_modal>
+<div class=content>
+<i class="fa fa-exclamation-triangle"></i>
+<div class=details>
+<div id=error_detail_error></div>
+<div id=error_detail_message></div>
+</div>
+<div class=buttons>
+<div id=error_details_close><i class="fa fa-times-circle-o"></i> close</div>
+<div id=copy_error_details><i class="fa fa-clipboard"></i> copy</div>
+</div>
+</div>
+</div>
+<section class="panel panel-default portlet-item shadowed no-border">
+<header class="panel-heading no-border shadowed">
+<div class="row no-margin flex">
+<div class="col-sm-4 flex-center-vertical header-text">
+<div class=row>
+<div class=col-sm-12>
+<h2 class="panel-title light-text">Vejle Idrætshøjskoles og -efterskoles Fond</h2>
+<p class=light-text>CVR: 36850728</p>
+<p class=light-text>Ørnebjergvej 28</p>
+<p class=light-text>7100 Vejle</p>
+<p class=light-text>Denmark</p>
+</div>
+</div>
+</div>
+<div class="col-sm-4 col-sm-offset-4 img-wrapper">
+<a href=https://fond.vih.dk target=_blank><img src=https://static.reepay.com/eabb8a63fbec1bd169c8c1da9565f662/20160829T63k.gif alt="vendor logo"></a>
+</div>
+</div>
+</header>
+<section class=panel-body>
+<article id=paymentinfo>
+<div class="row no-margin bottom-margin-25">
+<div class=col-md-12>
+<h2 class="light-text panel-title">Donér en ny stol til Globen</h2>
+</div>
+</div>
+<div class="alert alert-danger" style=display:none id=customer_error>
+<i class="error-details fa fa-exclamation-triangle"></i>
+<strong id=customer_error_headline>Oh snap!</strong>
+<p id=customer_error_message></p>
+</div>
+<div class="row no-margin">
+<div class=col-md-12>
+<h4 class=light-text>Faktureringsoplysninger</h4>
+</div>
+<div class=col-md-6>
+<div class=form-group>
+<label class=control-label>Fornavn
+<span class=red-asterix>*</span></label>
+<input type=text class="form-control customer_info" name=first_name required placeholder autocomplete=given-name tabindex=1>
+</div>
+</div>
+<div class=col-md-6>
+<div class=form-group>
+<label class=control-label>Efternavn
+<span class=red-asterix>*</span></label>
+<input type=text class="form-control customer_info" name=last_name required placeholder autocomplete=family-name tabindex=2>
+</div>
+</div>
+<div class=col-md-12>
+<div class=form-group>
+<label class=control-label>Email <span class=red-asterix>*</span></label>
+<input type=text class="form-control customer_info" name=email required placeholder autocomplete=email tabindex=3>
+</div>
+</div>
+<div class=col-md-12>
+<div class=form-group>
+<label class=control-label>Telefonnummer <span style=color:rgba(51,51,51,.3)>(valgfrit)</span></label>
+<input type=text class="form-control customer_info" name=phone placeholder autocomplete=tel tabindex=4>
+</div>
+</div>
+<div class=col-md-12>
+<div class=form-group>
+<label class=control-label>CPR-nummer (for at få skattefradrag og være tællende medlem) <span style=color:rgba(51,51,51,.3)>(valgfrit)</span></label>
+<input type=text class="form-control customer_info" name=company placeholder autocomplete=organization tabindex=5>
+</div>
+</div>
+<div class=col-md-6>
+<div class=form-group>
+<label class=control-label>Adresse
+<span class=red-asterix>*</span></label>
+<input type=text class="form-control customer_info" name=address required placeholder autocomplete=street-address tabindex=6>
+</div>
+</div>
+<div class=col-md-6>
+<div class=row>
+<div class=col-md-5>
+<div class=form-group>
+<label class=control-label>Postnummer
+<span class=red-asterix>*</span></label>
+<input type=text class="form-control customer_info" name=postal_code required placeholder autocomplete=postal-code tabindex=7>
+</div>
+</div>
+<div class=col-md-7>
+<div class=form-group>
+<label class=control-label>By <span class=red-asterix>*</span></label>
+<input type=text class="form-control customer_info" name=city required placeholder autocomplete=address-level2 tabindex=8>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row top-margin-20 no-margin left-right-margin-0">
+<div class=col>
+<h4 class=light-text>Ordreinformation</h4>
+<p></p>
+</div>
+</div>
+<div class=row id=outer-order-box>
+<div id=order-box class=shadowed>
+<div class="row no-margin">
+<div class=col-xs-12>
+<p>Donér en ny stol til Globen</p>
+</div>
+</div>
+<div class="row no-margin top-margin-10">
+<div class=col-xs-12>
+<p>3982 DKK
+/ trækkes en gang</p>
+</div>
+</div>
+<div class="row no-margin no-min-height">
+<div class=col-xs-12>
+</div>
+</div>
+<div class="row no-margin no-min-height">
+<div class=col-xs-12>
+</div>
+</div>
+<div class="row no-margin extra-row">
+<div class="col-xs-12 extras">
+</div>
+</div>
+</div>
+</div>
+<div class="row top-margin-20 no-margin">
+<div class=col-xs-12>
+<div class=row>
+<div class=col-xs-12>
+<div class=row>
+<div class=col-xs-12>
+<div id=terms-group>
+<div class=checkbox>
+<label>
+<input type=checkbox id=terms tabindex=10>
+Jeg har læst og accepteret <a href=# data-toggle=modal data-target=#myModal>abonnementsbetingelserne.</a>
+</label>
+</div>
+</div>
+</div>
+</div>
+<div class="row top-margin-30">
+<div class="col-xs-12 submit-padding">
+<form id=purchase-form method=get action=result.html>
+<input type=hidden id=token name=reepay-token>
+<input type=submit id=submit-form style=display:none>
+<button class="btn btn-s-md btn-success centered-button" tabindex=11 data-loading-text=Tilmelder... type=button id=savebutton>Tilmeld</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class=media id=paymentinfo_success style=display:none>
+<div class=media-body>
+<div class=row>
+<div class=col-sm-12>
+<div class="row flex">
+<div class="col-sm-12 flex-center-horizontal">
+<h2 class=success>Udført!</h2>
+</div>
+</div>
+<div class="row flex success-msg-container">
+<div class="col-sm-12 flex-center-horizontal">
+<p class=success-msg>Du er nu tilmeldt</p>
+</div>
+</div>
+<div class="row flex">
+<div class="col-sm-12 flex-center-horizontal">
+<img width=80% src=https://vih-fond.reepay.com/image/subscription_confirmed_graphics.png alt=success>
+</div>
+</div>
+</div>
+<div class="col-sm-6 hidden-xs"></div>
+</div>
+</div>
+</article>
+</section>
+</section>
+</div>
+</div>
+<div class=modal id=myModal tabindex=-1 role=dialog aria-labelledby=myModalLabel>
+<div class=modal-dialog role=document>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span>
+</button>
+<h4 class=modal-title id=myModalLabel>Betingelser</h4>
+</div>
+<div class=modal-body>
+<div>
+<p><b>Varighed af medlemsskabet</b></p>
+<p>Sålænge medlemskabet eksisterer uopsagt, vil der på det tilmeldte betalingskort forgå en trækning af 200,00 DKK / for 12 måneder. Der betales forud og medlemsskabet gælder et kalenderår (januar til december). Du kan til enhver tid opsige dit abonnement ved at kontakte os på info@vih.dk - dog senest 8 dage før den næste trækning.</p>
+<p>En kontant donation trækkes naturligvis kun en gang.</p>
+<p><b>Kvittering</b></p>
+<p>Efter tilmelding og ved hver trækning bliver der leveret en kvittering pr. e-mail til den e-mail du er tilmeldt med.</p>
+<p><b>Betalingskort udløb</b></p>
+<p>Såfremt dit betalingskort udløber, vil der blive fremsendt e-mail med link til fornyelse af kortoplysninger.</p>
+<p><b>Kortoplysninger</b></p>
+<p>Ved tilmelding til automatisk trækning giver du tilladelse til at gemme samtlige nødvendige betalingskortsoplysninger til brug for automatisk debitering af dit betalingskort. Disse oplysninger slettes, når aftalen ophører.</p>
+<p><b>Prisen</b></p>
+<p>Alle priser er uden moms med mindre andet er oplyst.</p>
+<p><b>Levering</b></p>
+<p>Når din tilmelding er blevet bekræftet, så har du adgang til fordelene, og således regnes medlemsskabet som leveret.</p>
+<p><b>Refundering</b></p>
+<p>Påbegyndt medlemsskab refunderes ikke.</p>
+<p><b>Reklamation</b></p>
+<p>Enhver form for reklamation skal rettes direkte til Vejle Idrætshøjskoles og -efterskoles Fond på kontor@vih.dk.</p>
+<p>Ved spørgsmål til dit køb, kontakt Vejle Idrætshøjskoles og -efterskoles Fond på kontor@vih.dk.</p>
+</div>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Luk</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src=https://vih-fond.reepay.com/js/jquery.min.js></script>
+<script src=https://vih-fond.reepay.com/js/button.js></script>
+<script src=https://vih-fond.reepay.com/js/jquery.card.js></script>
+<script src=https://vih-fond.reepay.com/js/bootstrap.min.js></script>
+<script src=https://js.reepay.com/v1/reepay.js></script>
+<script src=https://token.reepay.com/token.js data-baseurl=https://token.reepay.com/#/></script>
+<script>var translation={};translation.validation_headline='Der er fejl i de indtastede informationer',translation.validation_message='Kontrollér indtastet data i felterne: ',translation['invalid-parameter_headline']='Der er fejl i de indtastede informationer',translation['invalid-parameter_message']='Kontrollér indtastet data i felterne: ',translation['invalid-public-key_headline']='Ups der er sket en fejl',translation['invalid-public-key_message']='Der er brugt en forkert public key',translation['missing-public-key_headline']='Ups der er sket en fejl',translation['missing-public-key_message']='Der mangler en public key',translation['api-error_headline']='Ups der er sket en fejl',translation['api-error_message']='Det var ikke muligt at processere dit betalingsmiddel. Kontakt os for at få hjælp (api_error).',translation['invalid-account-token_headline']='Ups der er sket en fejl',translation['invalid-account-token_message']='Det var ikke muligt at processere dit betalingsmiddel. Kontakt os for at få hjælp (invalid_account_token).',translation['card-type-not-supported_headline']='Korttype kan ikke benyttes',translation['card-type-not-supported_message']='Korttypen for den indtastede kort er ikke understøttet af butikken',translation['invalid-request_headline']='Ups der er sket en fejl',translation['invalid-request_message']='Det var ikke muligt at processere dit betalingsmiddel. Kontakt os for at få hjælp (invalid_request).',translation.credit_card_expired_headline='Kort udløbet',translation.credit_card_expired_message='Det indtastede kort blev afvist fordi det er udløbet',translation.insufficient_funds_headline='Ikke dækning på kort',translation.insufficient_funds_message='Det indtastede kort blev afvist p.g.a. manglende dækning',translation.declined_by_acquirer_headline='Kort afvist',translation.declined_by_acquirer_message='Kortet blev afvist af indløser',translation.credit_card_lost_or_stolen_headline='Kort afvist',translation.credit_card_lost_or_stolen_message='Kortet blev afvist da det er meldt tabt eller stjålet',translation.credit_card_suspected_fraud_headline='Kort afvist',translation.credit_card_suspected_fraud_message='Kortet blev afvist da der er minstanke om snyd',translation.acquirer_communication_error_headline='Ups der er sket en fejl',translation.acquirer_communication_error_message='Kommunikationen til indløser fejlede. Prøv igen senere eller kontakt support@reepay.com hvis problemet varer ved.',translation.acquirer_error_headline='Ups der er sket en fejl',translation.acquirer_error_message='Indløser fejlede. Prøv igen senere eller kontakt support@reepay.com hvis problemet varer ved.',translation.acquirer_integration_error_headline='Ups der er sket en fejl',translation.acquirer_integration_error_message='Det var ikke muligt at processere dit betalingsmiddel. Vi arbejder på at løse problemet.',translation.acquirer_authentication_error_headline='Ups der er sket en fejl',translation.acquirer_authentication_error_message='Det var ikke muligt at processere dit betalingsmiddel. Vi arbejder på at løse problemet.',translation.acquirer_configuration_error_headline='Ups der er sket en fejl',translation.acquirer_configuration_error_message='Det var ikke muligt at processere dit betalingsmiddel. Vi arbejder på at løse problemet.',translation.acquirer_rejected_error_headline='Ups der er sket en fejl',translation.acquirer_rejected_error_message='Det var ikke muligt at processere dit betalingsmiddel. Vi arbejder på at løse problemet.',translation.generel_headline='Ups der er sket en fejl',translation.generel_message='Det var ikke muligt at processere dit betalingsmiddel. Prøv igen senere eller kontakt support@reepay.com hvis problemet varer ved.',translation.tokenadd_headline='Ups der er sket en fejl',translation.tokenadd_message='Kunne ikke oprette forbindelse. Kontroller din netadgang og prøv igen.',translation['invalid-coupon_headline']='Kuponkoden findes ikke',translation['invalid-coupon_message']='Den indtastede kode findes ikke i vores system.',translation['expired-coupon_headline']='Kuponkoden er udløbet',translation['expired-coupon_message']='Denne kuponkode er udløbet. Hvis du føler dette er en fejl, kontakt da de der har uddelt den',translation['terms-error_headline']='Accepter betingelser',translation['terms-error_message']='Det er påkrævet at acceptere vores betingelser';function interpretError(b){var a={};return a.headline=translation[b+"_headline"],a.message=translation[b+"_message"],a.headline||(a.headline=translation.generel_headline,a.message=translation.generel_message),a}</script>
+<script>function isEmail(a){var b=/^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;return b.test(a)}function setInputValidators(){$('.customer_info').each(function(){$(this).attr('required')&&$(this).blur(function(){$(this).val()==""?($(this).parent().removeClass("has-success"),$(this).parent().addClass("has-error")):($(this).parent().removeClass("has-error"),$(this).parent().addClass("has-success")),$(this).attr("name")=="email"&&!self.isEmail($(this).val())&&($(this).parent().removeClass("has-success"),$(this).parent().addClass("has-error"))})})}function setTosValidator(){$('#terms').change(function(){this.checked?($("#terms-group").removeClass("has-error"),$("#terms-group").addClass("has-success")):($("#terms-group").removeClass("has-success"),$("#terms-group").addClass("has-error"))})}function validateCoupon(b,a){b.plan="plan-cf154",$('#discount').empty(),$.ajax({url:"https://vih-fond.reepay.com/ecfa38d6aae2aaca7700f830cebb4e80/validate_coupon",method:"POST",data:JSON.stringify(b),contentType:'application/json'}).done(function(b){b.state=="active"?($(a).parent().removeClass("has-error"),$(a).parent().toggleClass("has-success"),$('.validation-message .success .text').html("Godkendt"),$('.validation-message .success').show(),b.amount===0?b.fixed_period!=0?$('#order-box .extras').html('<p>Rabat: '+b.percentage+'%</p>'):$('#order-box .extras').html('<p>Rabat: '+b.percentage+'%</p>'):$('#order-box .extras').html('<p>Rabat: '+b.amount/100+' DKK</p>')):($(".extras").html(""),$(a).parent().removeClass("has-success"),$(a).parent().addClass("has-error"),$('.validation-message .error .text').html('Kuponkoden er udløbet'),$('.validation-message .error').show())}).fail(function(b){$(".extras").html(""),$(a).parent().removeClass("has-success"),$(a).parent().addClass("has-error"),b.responseJSON.code==86?($('.validation-message .error .text').html('Kuponkoden findes ikke'),$('.validation-message .error').show()):($('.validation-message .error .text').html('Den indtastede kode findes ikke i vores system.').show(),$('.validation-message .error').show())})}function setCouponValidation(){var a='#coupon';$(a).on('blur',function(c){$(".validation-message").children().hide(),$(a).parent().removeClass("has-error"),$(a).parent().removeClass("has-success");var b={code:$(a).val()};b.code!=""?($(a).addClass("customer_info"),validateCoupon(b,a)):($(a).removeClass("customer_info"),$(".extras").html(""))})}function setError(c,a){var b=interpretError(c),d;$('#customer_error_headline').html(b.headline),d=a?a.join(', '):'',$('#customer_error_message').html(b.message+d),$("#customer_error").show()}function checkTocValidity(){var a=$('#terms').is(":checked");return $('#terms').is(':checked')||(a=!1,$('#terms-group').hasClass('has-error')||$("#terms-group").addClass("has-error"),setError('terms-error',null)),a}function checkFieldsValidity(){var a=!0,b=[];return $('.customer_info').each(function(){$(this).attr('required')&&($(this).val()===''||$(this).attr('name')==='email'&&!isEmail($(this).val()))&&(a=!1,$(this).parent().hasClass('has-erorr')||($(this).parent().addClass('has-error'),b.push($(this).parent().children('label').text().replace("*","").trim())))}),a||setError('validation',b),a}function checkCouponValidity(){return!$('#coupon').parent().hasClass('has-error')||(setError('invalid-coupon'),!1)}function checkFormValidity(){var a=checkCouponValidity(),b=checkTocValidity(),c=checkFieldsValidity();return!!($('#savebutton').button('reset'),b&&c&&a)&&($("#customer_error").hide(),!0)}setInputValidators(),setTosValidator(),setCouponValidation();function getCustomer(){var a={};return $(".customer_info").each(function(){a[$(this).attr("name")]=$(this).val()}),a}function signUp(c){var a=$('#savebutton').button('loading'),b=getCustomer();b.token=c,$.ajax({url:"https://vih-fond.reepay.com/ecfa38d6aae2aaca7700f830cebb4e80/create_customer",method:"POST",data:JSON.stringify(b),contentType:'application/json'}).done(function(b){console.log(b),$('#paymentinfo').hide(),$('#paymentinfo_success').show(),a.button('reset')}).fail(function(b){b&&b.status?b.status/100===4?setError('invalid_parameter',null):b.status/100===5?setError('api_error',null):setError('tokenadd',null):setError('tokenadd',null),a.button('reset')})}var handler=reepaytoken.configure({key:"pub_3bb1c8cb67af1de05cb279a0bac7d5e8",language:"da",recurring:"true",enableSca:"true",token:function(a){document.querySelector('#token').value=a.token,signUp(a.token)},ready:function(){},close:function(){console.log('modal closed')}});document.querySelector('#savebutton').addEventListener('click',function(a){a.preventDefault(),$('#savebutton').button('loading'),checkFormValidity()&&handler.open()})</script>
+<script>window.ga=function(){ga.q.push(arguments)},ga.q=[],ga.l=+new Date,ga('create','UA-4137620-4','auto'),ga('set','anonymizeIp',!1),ga('send','pageview')</script>
+<script src=https://www.google-analytics.com/analytics.js async></script>
+</body>
+</html>
