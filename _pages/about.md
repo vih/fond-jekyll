@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /om/
-redirect_to: https://www.vih.dk/fond/om/
+redirect_to: https://www.vih.dk/fond/
 show_headline: true
 title: "Om Vejle Idrætsskoles Fond"
 excerpt: Vejle Idrætshøjskole og -idrætsefterskole har en fond med henblik på at understøtte udviklingen af skolens faciliteter til gavn for elever, kursister og personale."
